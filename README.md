@@ -2,7 +2,7 @@
 
 Idea - flexible IT infrastructure with inspiration from Amazon and free (money free) components.
 
-Big Admin Box Linux - "Ready to Go" set of appliances with preconfigured services for customers, where admin stuff doesn't have powerful skills with complex and powerful Open Source components and services.
+Big Admin Box Linux - "Ready to Go" set of appliances with preconfigured services for customers, where admin stuff doesn't have powerful skills with complex Open Source components and services.
 
 Main goal - Simple web interface as frontend for Complex, Hard and Complicate backend.
 
